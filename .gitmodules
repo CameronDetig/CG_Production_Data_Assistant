@@ -6,4 +6,4 @@
 	url = https://github.com/CameronDetig/CG_Production_LLM_Assistant.git
 [submodule "CG_Production_Metadata_Extractor"]
 	path = CG_Production_Metadata_Extractor
-	url = https://github.com/CameronDetig/CG_Production_Data_Assistant.git
+	url = https://github.com/CameronDetig/CG_Production_Metadata_Extractor.git
