@@ -2,6 +2,8 @@
 
 This is a parent repository containing three submodules for constructing an LLM assistant for answering questions on a database of Blender Studio's assets from their short films.
 
+Try out the chatbot here: https://huggingface.co/spaces/cameron-d/cg-production-assistant
+
 ## Submodules
 
 - **CG_Production_Asset_Downloader** - Tool for downloading assets
