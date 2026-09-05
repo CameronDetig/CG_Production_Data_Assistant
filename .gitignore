@@ -1,0 +1,4 @@
+# Local recovery copies of retired component checkouts and runtime data.
+/.local-backups/
+# Retained legacy checkout; active downloader source is in the extractor.
+/CG_Production_Asset_Downloader/
